@@ -8,6 +8,6 @@
   <description>Parent project of the heuros modules.</description>
   <modules>
   	<module>../heuros-core</module>
-  	<module>../heuros-hyperpair</module>
+  	<module>../ssim2legs</module>
   </modules>
 </project>
