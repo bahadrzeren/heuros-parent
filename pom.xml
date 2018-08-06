@@ -9,5 +9,6 @@
   <modules>
   	<module>../heuros-core</module>
   	<module>../ssim2legs</module>
+  	<module>../hyper-pair</module>
   </modules>
 </project>
